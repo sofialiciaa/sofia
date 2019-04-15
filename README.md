@@ -1,2 +1,1 @@
 # Spoerer-Persico
-primer repositorio
