@@ -1,2 +1,2 @@
-# sofia
+# Spoerer-Persico
 primer repositorio
